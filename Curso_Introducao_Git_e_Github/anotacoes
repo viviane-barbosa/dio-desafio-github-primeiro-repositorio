@@ -1,0 +1,11 @@
+
+
+Comandos Git:
+
+Git init: cria um novo repositório
+
+Git status: verifica o status atual do repositório, se tem alguma alteração
+
+Git add: diz ao git quais alterações serão adicionadas no commit
+
+Git commit -m: realiza um commit para o repositório, é necessário informar uma mensagem
